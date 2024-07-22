@@ -1,0 +1,15 @@
+.herosection{
+    width: 100vw;
+    height: 100vh;
+}
+
+.container_herosection{
+    width: 100vw;
+    height: 100vh;
+}
+
+.image_herosection{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
